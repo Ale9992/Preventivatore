@@ -1,4 +1,4 @@
-<p align="right"><strong>🇬🇧 English</strong> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+**🇬🇧 English** &nbsp;|&nbsp; [🇮🇹 Italiano](README.it.md)
 
 # Preventivatore Rapido
 
