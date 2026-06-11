@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "preventivatore-rapido",
+  "description": "Cross-platform desktop app to generate professional quote/invoice PDFs, with an AI assistant and a guided web-project wizard.",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3030 --strictPort --host=0.0.0.0",
